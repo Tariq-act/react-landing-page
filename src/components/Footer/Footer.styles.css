@@ -1,0 +1,13 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #16213e;
+  color: #fff;
+  padding: 0.75rem 0;
+}
+.logo span {
+  color: #645caa;
+}
